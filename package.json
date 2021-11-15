@@ -1,0 +1,50 @@
+{
+  "name": "wonderpush-webplugin-example",
+  "version": "1.0.0",
+  "description": "An example plugin for the WonderPush website SDK.",
+  "main": "src/example.js",
+  "scripts": {
+    "watch": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wonderpush/wonderpush-webplugin-example.git"
+  },
+  "keywords": [
+    "wonderpush",
+    "web",
+    "plugin",
+    "optin",
+    "bell"
+  ],
+  "author": "WonderPush",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wonderpush/wonderpush-webplugin-example/issues"
+  },
+  "homepage": "https://github.com/wonderpush/wonderpush-webplugin-example#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "del": "^4.1.1",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-copy": "^4.0.1",
+    "gulp-css-base64": "^1.3.4",
+    "gulp-git": "^2.9.0",
+    "gulp-header": "^2.0.7",
+    "gulp-jsdoc3": "^2.0.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-less": "^4.0.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-stylelint": "^9.0.0",
+    "gulp-uglify": "^3.0.2",
+    "jsdoc": "^3.5.5",
+    "jshint": "^2.9.4",
+    "lazypipe": "^1.0.1",
+    "q": "^1.5.0",
+    "stylelint": "^10.0.1"
+  }
+}

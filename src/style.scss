@@ -1,0 +1,17 @@
+// This SASS file will be processed to create a style.css file
+// Run `gulp` to build style.css or `gulp watch` to re-build style.css automatically on each change.
+// Load the stylesheet in your plugin like this:
+// WonderPushSDK.loadStylesheet('style.css');
+
+div.wonderpush-webplugin-example {
+  width: 200px;
+  height: 200px;
+  position: fixed;
+  left: 10px;
+  top: 10px;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
