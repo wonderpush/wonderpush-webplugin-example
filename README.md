@@ -1,4 +1,4 @@
-# What are plugins WonderPush website SDK?
+# What are plugins in the WonderPush website SDK?
 
 They are javascript files that can be loaded by our website SDK to add functionnality and easy to use for our customers: all they have to do is slightly adapt their WonderPush javascript snippet like this:
 
